@@ -1,8 +1,5 @@
-// import functions and grab DOM elements
+console.log('hello world');
 
-// initialize global state
-
-// set event listeners 
-  // get user input
-  // use user input to update state 
-  // update DOM to reflect the new state
+// arrays
+let colors = ['pink', 'purple', 'green'];
+console.log(colors[0]);
